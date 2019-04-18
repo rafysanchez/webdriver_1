@@ -51,7 +51,7 @@ namespace webdriver_1
 
             // acesso com usuario e senha
             driver.FindElement(By.Id("email")).SendKeys("rafysanchez@hotmail.com");
-            driver.FindElement(By.Id("pass")).SendKeys("Sanc622!" + Keys.Enter);
+            driver.FindElement(By.Id("pass")).SendKeys("xxxxxxx!" + Keys.Enter);
 
             // abrir link de amigos - friends 
 
